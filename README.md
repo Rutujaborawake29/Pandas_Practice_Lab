@@ -1,1 +1,2 @@
-# Pandas_Practice_Lab
+## Pandas_Practice_Lab
+**Pandas Practice Lab** is a project designed to help beginners practice and improve their pandas skills using small datasets. It covers creating and manipulating DataFrames and Series, data cleaning and preparation, exploratory data analysis (EDA), advanced data manipulation, and real-world data scenarios. The lab includes interactive Jupyter notebooks with step-by-step instructions, real-world examples, and detailed documentation. To get started, install pandas, clone the repository from GitHub, and explore the provided notebooks.![panda](https://github.com/Rutujaborawake29/Pandas_Practice_Lab/assets/124768405/a6f4accc-0ec6-4b1f-a595-84e2f385fe27)
